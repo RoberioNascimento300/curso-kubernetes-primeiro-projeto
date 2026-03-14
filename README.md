@@ -24,7 +24,8 @@ Hello, World!
 
 1. Clone o repositório
 
-git clone https://github.com/seuusuario/nome-do-repositorio
+git clone https://github.com/RoberioNascimento300/curso-kubernetes-primeiro-projeto
+
 
 2. Execute o arquivo
 
