@@ -29,7 +29,7 @@ git clone https://github.com/RoberioNascimento300/curso-kubernetes-primeiro-proj
 
 2. Execute o arquivo
 
-python app.py
+python script.py
 
 ## 👨‍💻 Autor
 Projeto desenvolvido durante curso de Kubernetes.
