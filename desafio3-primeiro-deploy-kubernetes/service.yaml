@@ -1,0 +1,16 @@
+cat > service.yaml << 'EOF'
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-world-svc
+  namespace: dev
+spec:
+  type: NodePort
+  selector:
+    app: hello-world
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5000
+      nodePort: 30007
+EOF
