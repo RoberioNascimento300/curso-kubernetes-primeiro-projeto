@@ -42,7 +42,7 @@ Realizar o primeiro deploy de uma aplicação em um cluster Kubernetes, aplicand
 - Kubernetes (Minikube, Kind ou Docker Desktop)
 - kubectl configurado
 
-### 1. Build da Imagem Docker
+### 🚀 1. Build da Imagem Docker
 
 ```bash
 # Build da imagem
